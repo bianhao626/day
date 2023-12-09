@@ -12,5 +12,14 @@ void InsertSort(int* a, int n);
 //оё╤ШеепР
 void ShellSort(int* a, int n);
 
+//я║тЯеепР
+void SelectSort(int* a, int n);
+void SelectSort_2(int* a, int n);
+//╤яеепР
+void AdjustDown(int* a, int n, int root);
+void HeapSort(int* a, int n);
+
 //ц╟ещеепР
 void BubbleSort(int* a, int n);
+//©ЛкыеепР
+void QuickSort1(int* a, int start, int end);
